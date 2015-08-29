@@ -1,0 +1,9 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Contoso Books"
+  },
+  "Data": {
+    //"ConnectionString": "Server=(localdb)\\MSSQLLocalDB;Database=MyBookStore;Trusted_Connection=True;MultipleActiveResultSets=true"
+    "ConnectionString": "Server=localhost;Database=MyBookStore;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
